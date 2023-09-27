@@ -59,7 +59,15 @@ main hr {
   border-color: #00800054;
 }
 
+.li-1 {
+  font-weight: bolder;
+}
 .li-special {
   list-style: none;
-  padding-top: 0.1rem;
+  padding-top: 0.3rem;
+}
+
+.bordo-destro {
+  border-left: 2px solid #d16e1141;
+  padding-left: 1em;
 }
