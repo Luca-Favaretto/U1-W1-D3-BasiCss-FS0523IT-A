@@ -7,13 +7,13 @@ body {
   width: 850px;
   margin-inline: auto;
 }
-header img {
+div img {
   width: 10rem;
   display: block;
   margin-inline: auto;
 }
 
-header h3 {
+div h3 {
   background-color: #e9e26021;
   color: green;
   text-align: center;
@@ -40,7 +40,7 @@ div.sally-img p {
   opacity: 0.7;
 }
 
-main div img {
+main div video {
   width: 100%;
   border-radius: 1em;
   box-shadow: 7px 5px 10px 0px #00000052;
