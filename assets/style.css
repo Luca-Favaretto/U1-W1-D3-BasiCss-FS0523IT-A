@@ -1,0 +1,36 @@
+body {
+  font-family: "Libre Baskerville", serif;
+  width: 850px;
+}
+header img {
+  width: 10rem;
+  display: block;
+  margin-inline: auto;
+}
+
+header h3 {
+  background-color: yellow;
+  color: green;
+  text-align: center;
+}
+header h3 span {
+  text-transform: uppercase;
+}
+
+body h1 {
+  text-align: center;
+}
+div.sally-img p {
+  text-align: center;
+}
+
+main div img {
+  width: 100%;
+}
+
+a {
+  color: green;
+}
+.second-span {
+  text-transform: uppercase;
+}
