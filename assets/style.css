@@ -1,5 +1,9 @@
 body {
   font-family: "Libre Baskerville", serif;
+  background-color: rgb(239 239 232 / 23%);
+}
+
+.ineluttbile {
   width: 850px;
   margin-inline: auto;
 }
@@ -10,25 +14,32 @@ header img {
 }
 
 header h3 {
-  background-color: yellow;
+  background-color: #e9e26021;
   color: green;
   text-align: center;
   height: 2.5rem;
   padding-top: 1rem;
+  font-weight: bolder;
+  box-shadow: 0px -3px 0px 0px #f7e32f56;
 }
 header h3 span {
   text-transform: uppercase;
 }
 
 body h1 {
+  margin-top: 2em;
   text-align: center;
+  font-weight: bolder;
 }
 div.sally-img p {
   text-align: center;
+  opacity: 0.7;
 }
 
 main div img {
   width: 100%;
+  border-radius: 1em;
+  box-shadow: 7px 5px 10px 0px #00000052;
 }
 
 a {
@@ -36,11 +47,12 @@ a {
 }
 .second-span {
   text-transform: uppercase;
-  color: orange;
+  color: #d16d11;
+  font-weight: bolder;
 }
 
 main hr {
-  border-color: green;
+  border-color: #00800054;
 }
 
 .li-special {
